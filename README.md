@@ -75,14 +75,15 @@ Sebuah sistem **manajemen server berbasis WhatsApp** yang dirancang khusus untuk
 
 ---
 
+## ⚠️ **Persyaratan Sistem**  
+✅ **OS**: Debian 11 / 10  
+✅ **Akses**: Root diperlukan  
 ## ⚙️ Cara Instalasi & Aktivasi
 1. Dapatkan **Key Install** dari : [@GMECoporation](https://t.me/GMECoporation)  
 2. Chat Admin Nanti akan di Berikan key premium Jika rental
 3. Jalankan perintah di bawah di terminal VPS:
 ```bash
-curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
-source ~/.bashrc
-run install R01FInject
+curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/BOTWaTunnlingV_Lite/main/start.sh && chmod +x start.sh && ./start.sh
 ```
 
 ---

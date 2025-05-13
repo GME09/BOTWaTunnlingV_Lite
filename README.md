@@ -59,7 +59,7 @@ Sebuah sistem **manajemen server berbasis WhatsApp** yang dirancang khusus untuk
 | **Basic**    | 7 Hari | Rp 8.000 |
 | **Menengah** | 15 hari | Rp 10.00 |
 | **Pro**      | 30 Hari| Rp 15.000 |
-| **Tools basic** | selamanya | Rp 220.000 (Termasuk Source Code, open Source, no free update, recode + Rp 20.000) "Harga Sewaktu-waktu Naik"
+| **Tools basic** | selamanya | Rp 150.000 (Termasuk Source Code, open Source, no free update, recode + Rp 20.000) "Harga Sewaktu-waktu Naik"
 | **Tools** | Selamanya | Rp 350.000 (Termasuk Source Code Open Source, Free Update, free recode,*) "Harga Sewaktu-waktu Naik"
 
 > **Catatan:**  
